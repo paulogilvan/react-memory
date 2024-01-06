@@ -1,25 +1,16 @@
-# Jogo da Memória
+<h1>Jogo da Memória</h1>
 
-Este projeto foi feito em react para testar meus conhecimentos
+<h3>Esse é um projeto jogo da memória. Criado com ReactJs, TypeScript, Styled-Components e Responsivo. Com ele adquiri muito conhecimento, foi desafiador e muito importante para meus conhecimentos.</h3>
 
-## Available Scripts
+<h4>Tecnologias usadas:</h4>
 
-In the project directory, you can run:
+<div>
+  REACTJS<img align="center" alt="Paulo-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Paulo-REACT" />
+  TYPESCRIPT<img align="center" alt="Paulo-TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Paulo-TYPESCRIPT" />  
+</div>
+ 
+#
 
-### `npm start`
+<img src="https://github.com/paulogilvan/react-memory/blob/master/src/assets/img-frontend.png?raw=true" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img src="https://github.com/paulogilvan/react-memory/blob/master/src/assets/img-mobile.png?raw=true" />
